@@ -1,3 +1,3 @@
 title: "first blog"
-date: 2021-3-12
+date: 2021-03-12
 oops，this is my first blog post.
