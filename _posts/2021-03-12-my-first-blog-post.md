@@ -1,5 +1,5 @@
 ---
-title: "first blog"
+title: "my first blog"
 date: 2021-03-12
 ---
 oops，this is my first blog post.
